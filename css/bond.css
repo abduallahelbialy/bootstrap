@@ -76,7 +76,9 @@ body {
 }
 .features .icon-holder .icon {
   color: var(--green-color);
+  padding-left: 16px;
 }
+
 .features .feat h4 {
   color: var(--yellow-color);
 }
